@@ -1,0 +1,10 @@
+*.o
+.DS_Store
+__pycache__/
+.vscode/
+.vs/
+.qmake.stash
+moc_*
+Application
+Makefile
+Logs/
